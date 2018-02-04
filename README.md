@@ -10,6 +10,6 @@
 - Sass [Optional]
 
 ### Directory structure
-- `public/` - Served folder. Contains html, css & js files that are used on the front side.
-- `server/` - Server files folder. Contains database file, routing and other , that are needed for proper server work.
+- [`public/`](/sasha240100/UNIQ_Tutorial_BackEnd/tree/master/public) - Served folder. Contains html, css & js files that are used on the front side.
+- [`server/`](/sasha240100/UNIQ_Tutorial_BackEnd/tree/master/server) - Server files folder. Contains database file, routing and other , that are needed for proper server work.
 
