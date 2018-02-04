@@ -1,4 +1,4 @@
-# UNIQ Tutorial 01: BackEnd
+# UNIQ Tutorial 01: Back-end
 ### Software requirements
 - Node.js
 - NPM
