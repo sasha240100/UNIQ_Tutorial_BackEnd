@@ -1,4 +1,4 @@
-# `server/` folder requirements
+## `server/` folder requirements
 ### Directory structure
 - `database/` - Contains `items.json` file with the following schema:
 
