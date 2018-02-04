@@ -21,6 +21,7 @@
 - `./pug.js` - Enables Pug.js support for Expressjs server.
 
 
+### Local dependecies graph
 ```
 ./index {
   ./server, 
