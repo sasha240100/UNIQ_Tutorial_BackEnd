@@ -4,12 +4,12 @@
 
 ```json
 {
-	"items": [
-		{
-			"name": "item1",
-			"img": "http://image.url/"
-		}
-	]
+  "items": [
+    {
+      "name": "item1",
+      "img": "http://image.url/"
+    }
+  ]
 }
 ```
 
@@ -25,10 +25,10 @@
 ./index {
   ./server, 
   ./routes {
-	./server
+    ./server
   },
   ./pug {
-	./server
+    ./server
   }
 }
 ```
